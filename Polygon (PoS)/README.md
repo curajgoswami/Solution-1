@@ -10,7 +10,6 @@ This repository contains a Solidity smart contract for Space NFTs (Non-Fungible 
 
 - Contract Name: Space
 - Symbol: Spc
-- Base URL for NFTs: "https://gateway.pinata.cloud/ipfs/QmUHVj7XKfSsjBfzfcnxhfY2C8hv7pvABWxbZ3WwT3EG9N/"
 - Prompt: "robots reading Sanskrit scripts in outer space to restore Earth"
   
 
